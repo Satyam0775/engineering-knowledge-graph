@@ -5,3 +5,4 @@ networkx
 pytest
 fastapi
 uvicorn
+groq
