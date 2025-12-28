@@ -1,0 +1,7 @@
+pyyaml
+neo4j
+python-dotenv
+networkx
+pytest
+fastapi
+uvicorn
